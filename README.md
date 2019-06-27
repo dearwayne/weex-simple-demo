@@ -1,6 +1,6 @@
 # Introduction
 
-This is a simple demo for weex.
+Demo for weex.
 
 ## Quickstart
 
